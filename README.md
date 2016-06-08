@@ -1,2 +1,2 @@
 # -this-is-new-repository-
-this is the new repository for very first use of github# 
+this is 1st new repository for very first use of github# 
